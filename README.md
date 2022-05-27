@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**timvahlbrock/timvahlbrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from Germany.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+    📚 my bachelor thesis on semi automated refactoring  
+💬 Talk to me about
+    🔵 Typescript
+    📱 Hybrid- and Web-Apps
+    🧪 TDD
+    ✨ Clean Code, Refactoring
+🤔 Tell me If you know how to
+    🧪 properly test VSCode extensions
+📫 How to reach me
+    📧 Write me an [E-mail](mailto:tim@vahlbrock.de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- ⚡ Fun fact: ... -->
