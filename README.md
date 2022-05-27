@@ -17,3 +17,13 @@ I'm a web developer from Germany.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- ⚡ Fun fact: ... -->
+
+<details>
+<summary>📈 Regarding the stats...</summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timvahlbrock&layout=compact&hide=css,html)
+
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=timvahlbrock&count_private=true&show_icons=true&theme=onedark)
+
+</details>
