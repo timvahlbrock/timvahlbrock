@@ -6,7 +6,7 @@ I'm a web developer from Germany.
 
 <div style="float: left">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCODE-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
