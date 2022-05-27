@@ -39,7 +39,7 @@ I'm a web developer from Germany.
 <summary>📈 Regarding the stats...</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timvahlbrock&layout=compact&hide=css,html,jupyter%20notebook?theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timvahlbrock&layout=compact&hide=css,jupyter%20notebook,html?theme=algolia)
 
 ![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=timvahlbrock&count_private=true&show_icons=true&theme=algolia)
 
