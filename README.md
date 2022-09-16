@@ -20,7 +20,7 @@ I'm a web developer from Germany.
 ### More info about me
 
 - 🔭 I’m currently working on: 
-    - 📚 my bachelor thesis on semi automated refactoring  
+    - 📚 my presentation for ICSME 2022
 - 💬 Talk to me about
     - 🔵 Typescript
     - 📱 Hybrid- and Web-Apps
