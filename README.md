@@ -20,12 +20,14 @@ I'm a web developer from Germany.
 ### More info about me
 
 - 🔭 I’m currently working on: 
-    - 📚 my presentation for ICSME 2022
+    - 📚 my master's lectures
+    - ⚙️ Maintaining and improving [VSCode Migrate](https://github.com/tis-gmbh/vscode-migrate)
 - 💬 Talk to me about
     - 🔵 Typescript
     - 📱 Hybrid- and Web-Apps
     - 🧪 TDD
     - ✨ Clean Code, Refactoring
+    - 🧑🏼‍💻 Job offers: I'm currently looking for a part-time job I can do parallel to my studies
 - 🤔 Tell me If you know how to
     - 🧪 properly test VSCode extensions
 - 📫 How to reach me
