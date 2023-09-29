@@ -21,19 +21,17 @@ I'm a web developer from Germany.
 
 - 🔭 I’m currently working on: 
     - 📚 my master's lectures
-    - ⚙️ Maintaining and improving [VSCode Migrate](https://github.com/tis-gmbh/vscode-migrate)
+    - ⚙️ a public transit project called [Oeffis](https://github.com/oeffis/oeffis)
+    - 🚅 software at [DB Systel](https://github.com/dbsystel)
 - 💬 Talk to me about
     - 🔵 Typescript
     - 📱 Hybrid- and Web-Apps
     - 🧪 TDD
     - ✨ Clean Code, Refactoring
-    - 🧑🏼‍💻 Job offers: I'm currently looking for a part-time job I can do parallel to my studies
-- 🤔 Tell me If you know how to
-    - 🧪 properly test VSCode extensions
 - 📫 How to reach me
     - 📧 Write me an [E-mail](mailto:tim@vahlbrock.de)
-
-<!-- - 🌱 I’m currently learning ... -->
+- 🌱 I’m currently learning
+    - Kubernetes and k3s
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- ⚡ Fun fact: ... -->
 
