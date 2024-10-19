@@ -16,7 +16,7 @@ I'm a software engineer from Germany.
 - 🔭 I’m currently working on: 
     - 🚅 software for the future of rail in germany at [DB Systel](https://github.com/dbsystel)
 - 💬 Talk to me about
-    - 📄 Contract Testing
+    - 📄 Contract Testing, which I've also written my [master's thesis](master-thesis.pdf) about
     - 🕸️ Web Apps
     - 🧪 TDD
     - ✨ Clean Code, Refactoring
